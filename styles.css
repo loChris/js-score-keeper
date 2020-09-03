@@ -1,0 +1,10 @@
+body {
+	width: 60%;
+	margin: 300px auto;
+	align-content: center;
+	text-align: center;
+}
+
+.winner {
+	color: green;
+}
